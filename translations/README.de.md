@@ -46,7 +46,7 @@ Bevor Sie mit dem Schreiben beginnen, lesen Sie unbedingt den [Artikel Style-Gui
 4. 👉 [Erstelle einen Pull-Request](https://github.com/freeCodeCamp/guide/compare)
 5. 🎉 Lassen Sie Ihren Pull-Request genehmigen - Erfolg!
 
-Oder einfach [einen Issue erstellen](https://github.com/freeCodeCamp/guide/issues) — jedes bisschen Hilfe zählt! 😊
+Oder einfach [einen Issue erstellen](https://github.com/freeCodeCamp/guide/issues) — jedes bisschen Hilfe zählt! 😊 :-)
 
 ## Lizenz
 
